@@ -1,0 +1,8 @@
+/*
+tener listas imagenes de proyectos que hayan realizado
+
+URL de proyectos
+
+Descripcion corta de cada proyecto
+
+*/
